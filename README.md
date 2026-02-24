@@ -6,7 +6,7 @@
 * **Concepts Mastered:**
     * **The CIA Triad:** Deep dive into Confidentiality, Integrity, and Availability.
     * **Risk Equation:** Analyzed the relationship between Vulnerabilities, Threats, and Business Impact.
-* **Next Step:** Introduction to the Linux Command Line and Network Protocols.
+
 ### Feb 24: Network Communications & Protocol Logic
 * **Coursework:** Completed Module 1 of Cisco "Networking Basics."
 * **Key Concepts:**
