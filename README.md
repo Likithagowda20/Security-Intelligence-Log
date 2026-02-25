@@ -18,6 +18,6 @@
 * **Learning Objective:** Mapping physical network layers and understanding device-level connectivity.
 * **Coursework:** Completed Module 2 of Cisco "Network Components and Connections."
 * **Key Concepts:**
-* **Device Categorization:** Distinguishing between End Devices (PCs, Servers) and Intermediary Devices (Routers, Switches, Firewalls).
-* **Connectivity Media:** Analyzed the use cases and vulnerabilities of Copper, Fiber-optic, and Wireless connections.
+    * **Device Categorization:** Distinguishing between End Devices (PCs, Servers) and Intermediary Devices (Routers, Switches, Firewalls).
+    * **Connectivity Media:** Analyzed the use cases and vulnerabilities of Copper, Fiber-optic, and Wireless connections.
 * **Analysis:** Identified that physical and logical topology mapping is essential for defining the "attack surface" in a Security Intelligence role.
