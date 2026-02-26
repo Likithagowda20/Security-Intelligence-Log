@@ -21,3 +21,12 @@
     * **Device Categorization:** Distinguishing between End Devices (PCs, Servers) and Intermediary Devices (Routers, Switches, Firewalls).
     * **Connectivity Media:** Analyzed the use cases and vulnerabilities of Copper, Fiber-optic, and Wireless connections.
 * **Analysis:** Identified that physical and logical topology mapping is essential for defining the "attack surface" in a Security Intelligence role.
+  
+###Feb 26: Wireless Connectivity & Mobile Networking
+* **Learning Objective:** Understanding how mobile devices interact with various wireless network types and the associated security protocols.
+* **Coursework:** Completed Module 3 of Cisco "Networking Basics."
+* **Key Concepts:**
+    * **Wireless Standards:** Explored Wi-Fi (802.11), Bluetooth, NFC, and Cellular (4G/5G) technologies.
+    * **Mobile Connectivity:** Studied how Android and iOS devices manage Wi-Fi settings and automated network switching.
+    * **Security Precautions:** Analyzed the importance of WPA2/WPA3 encryption and the risks of sending plaintext data over public hotspots.
+* **Analysis:** Noted that mobile devices increase the "attack surface" of a company, requiring stronger endpoint security and VPN usage for remote data access.
