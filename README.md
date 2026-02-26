@@ -22,7 +22,7 @@
     * **Connectivity Media:** Analyzed the use cases and vulnerabilities of Copper, Fiber-optic, and Wireless connections.
 * **Analysis:** Identified that physical and logical topology mapping is essential for defining the "attack surface" in a Security Intelligence role.
   
-###Feb 26: Wireless Connectivity & Mobile Networking
+### Feb 26: Wireless Connectivity & Mobile Networking
 * **Learning Objective:** Understanding how mobile devices interact with various wireless network types and the associated security protocols.
 * **Coursework:** Completed Module 3 of Cisco "Networking Basics."
 * **Key Concepts:**
