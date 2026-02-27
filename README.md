@@ -8,7 +8,6 @@
     * **Risk Equation:** Analyzed the relationship between Vulnerabilities, Threats, and Business Impact.
 
 ### Feb 24: Network Communications & Protocol Logic
-* **Coursework:** Completed Module 1 of Cisco "Networking Basics."
 * **Key Concepts:**
     * **Message Segmentation:** Understanding how large data is broken into smaller pieces for network efficiency.
     * **Protocol Requirements:** Studied encoding, formatting, and timing in digital communication.
@@ -16,7 +15,6 @@
 
 ### Feb 25: Network Architecture & Infrastructure Foundations
 * **Learning Objective:** Mapping physical network layers and understanding device-level connectivity.
-* **Coursework:** Completed Module 2 of Cisco "Network Components and Connections."
 * **Key Concepts:**
     * **Device Categorization:** Distinguishing between End Devices (PCs, Servers) and Intermediary Devices (Routers, Switches, Firewalls).
     * **Connectivity Media:** Analyzed the use cases and vulnerabilities of Copper, Fiber-optic, and Wireless connections.
@@ -30,3 +28,11 @@
     * **Mobile Connectivity:** Studied how Android and iOS devices manage Wi-Fi settings and automated network switching.
     * **Security Precautions:** Analyzed the importance of WPA2/WPA3 encryption and the risks of sending plaintext data over public hotspots.
 * **Analysis:** Noted that mobile devices increase the "attack surface" of a company, requiring stronger endpoint security and VPN usage for remote data access.
+
+### Feb 27: Home Network Architecture & Security
+* **Learning Objective:** Implementing and securing a SOHO (Small Office/Home Office) environment.
+* **Concepts Mastered:**
+    * **Gateway Configuration:** Setting up an integrated wireless router to connect local devices to the ISP.
+    * **Security Implementation:** Configuring SSIDs and implementing WPA2/WPA3 encryption to prevent unauthorized access.
+    * **DHCP Services:** Understanding the automated assignment of IP addresses to end devices for local communication.
+* **Analysis:** Building a home network highlighted that security is not a "default" state; it requires intentional configuration of the gateway to protect internal data from external threats.
