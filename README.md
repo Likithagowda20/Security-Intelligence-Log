@@ -36,3 +36,11 @@
     * **Security Implementation:** Configuring SSIDs and implementing WPA2/WPA3 encryption to prevent unauthorized access.
     * **DHCP Services:** Understanding the automated assignment of IP addresses to end devices for local communication.
 * **Analysis:** Building a home network highlighted that security is not a "default" state; it requires intentional configuration of the gateway to protect internal data from external threats.
+
+### Feb 28: Network Gateway Configuration & Verification
+* **Learning Objective:** Finalizing SOHO network builds and reflecting on home-to-ISP connectivity.
+* **Concepts Mastered:**
+    * **Router Setup:** Detailed configuration of local gateways and wireless access point parameters.
+    * **Home Technologies:** Analyzed the interaction between local devices and the ISP's external infrastructure.
+    * **Diagnostic Reflection:** Completed the "Webster Reflection" to troubleshoot common connectivity failures.
+* **Analysis:** Recognized that securing the "Entry Point" of a network is the first line of defense; misconfigured home gateways create easy pivot points for attackers to access sensitive corporate data.
