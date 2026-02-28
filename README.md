@@ -43,4 +43,4 @@
     * **Router Setup:** Detailed configuration of local gateways and wireless access point parameters.
     * **Home Technologies:** Analyzed the interaction between local devices and the ISP's external infrastructure.
     * **Diagnostic Reflection:** Completed the "Webster Reflection" to troubleshoot common connectivity failures.
-* **Analysis:** Recognized that securing the "Entry Point" of a network is the first line of defense; misconfigured home gateways create easy pivot points for attackers to access sensitive corporate data.
+* **Analysis:** Recognized that securing the "Entry Point" of a network is the first line of defense; misconfigured home gateways create easy pivot points for attackers to access sensitive corporate data. 
