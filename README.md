@@ -44,3 +44,12 @@
     * **Home Technologies:** Analyzed the interaction between local devices and the ISP's external infrastructure.
     * **Diagnostic Reflection:** Completed the "Webster Reflection" to troubleshoot common connectivity failures.
 * **Analysis:** Recognized that securing the "Entry Point" of a network is the first line of defense; misconfigured home gateways create easy pivot points for attackers to access sensitive corporate data. 
+
+## 📅 March 2026
+### Mar 1: Network Protocols & Communication Logic
+* **Learning Objective:** Mastering data delivery methods and protocol requirements.
+* **Concepts Mastered:**
+    * **The 3 Casting Modes:** Deep dive into Unicast, Multicast, and Broadcast.
+    * **Security Implications:** Identified the "Broadcast Domain" as a primary attack surface for network mapping and DoS.
+    * **Protocol Rules:** Studied encoding, flow control, and response timeouts.
+* **Analysis:** Recognized that security is not just about blocking access, but about controlling the "scope" of communication (Segmentation).
